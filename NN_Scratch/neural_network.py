@@ -1,7 +1,8 @@
 """
 This code represents a simple neural network script from scratch without classes. 
 
--Pretedetermined inputs, weights and biases with 2 hidden layers were used
+- Pretedetermined inputs, weights and biases with 2 hidden layers were used
+- No activation of neurons
 """
 
 import numpy as np
